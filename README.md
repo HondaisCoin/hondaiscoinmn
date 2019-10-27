@@ -1,7 +1,7 @@
 HondaisCoinMN Core staging tree 1.0.0
 ===============================
 
-https://www.hondaiscoin.com
+https://www.hondaiscoin.com/
 
 
 What is HondaisCoinMN?
@@ -14,7 +14,7 @@ are carried out collectively by the network. HondaisCoinMN Core is the name of t
 source software which enables the use of this currency.
 
 For more information, as well as an immediately useable, binary version of
-the HondaisCoinMN Core software, see https://www.hondaiscoin.com
+the HondaisCoinMN Core software, see https://www.hondaiscoin.com/#x11
 
 
     Algorithm: x11
